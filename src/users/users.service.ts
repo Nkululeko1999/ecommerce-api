@@ -10,7 +10,6 @@ export class UsersService {
         id: '1',
         names: 'Fezile Nkabinde',
         email: 'fez@gmail.com',
-        password: 'Fez#748',
       },
     ];
   }
